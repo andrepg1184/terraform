@@ -1,7 +1,6 @@
-### TF STATE
-.tfstate
-.backup
+# TF STATE
+*.tfstate
+*.backup
 
-## Terraform
-.terraform
-.hcl
+# Terraform
+*.terraform
