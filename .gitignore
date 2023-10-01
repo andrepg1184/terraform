@@ -4,3 +4,4 @@
 
 ## Terraform
 .terraform
+.hcl
